@@ -1,0 +1,1 @@
+module.exports = require('./bundle-url').getBundleURL() + "model.HASH_REF_5b246808edc152e94c7b6515ecb546c7.js"
